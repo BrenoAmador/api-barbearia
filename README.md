@@ -1,4 +1,6 @@
 # api-barbearia
 
+Versão 0.0 de Testes
 
-Testando Mudança
+Primeiro projeto de API para barbearias
+e primeiro projeto hospedado no GitHub
